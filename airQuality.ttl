@@ -1,0 +1,444 @@
+@base <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smw: <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+smw:Alabama a smw:State;
+  smw:hasPM2_5Days smw:45909;
+  smw:hasOzoneDays smw:45 .
+
+smw:45909 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 45909 .
+
+smw:45 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 45 .
+
+smw:Alaska a smw:State;
+  smw:hasPM2_5Days smw:36818;
+  smw:hasOzoneDays smw:0 .
+
+smw:36818 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 36818 .
+
+smw:0 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 0 .
+
+smw:Arizona a smw:State;
+  smw:hasPM2_5Days smw:538552;
+  smw:hasOzoneDays smw:85 .
+
+smw:538552 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 538552 .
+
+smw:85 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 85 .
+
+smw:Arkansas a smw:State;
+  smw:hasPM2_5Days smw:61053;
+  smw:hasOzoneDays smw:8 .
+
+smw:61053 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 61053 .
+
+smw:8 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 8 .
+
+smw:California a smw:State;
+  smw:hasPM2_5Days smw:20572776;
+  smw:hasOzoneDays smw:42 .
+
+smw:20572776 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 20572776 .
+
+smw:42 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 42 .
+
+smw:Colorado a smw:State;
+  smw:hasPM2_5Days smw:1439264;
+  smw:hasOzoneDays smw:1 .
+
+smw:1439264 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 1439264 .
+
+smw:1 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 1 .
+
+smw:Connecticut a smw:State;
+  smw:hasPM2_5Days smw:1855488;
+  smw:hasOzoneDays smw:31 .
+
+smw:1855488 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 1855488 .
+
+smw:31 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 31 .
+
+smw:Delaware a smw:State;
+  smw:hasPM2_5Days smw:8162528;
+  smw:hasOzoneDays smw:33 .
+
+smw:8162528 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 8162528 .
+
+smw:33 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 33 .
+
+smw:Florida a smw:State;
+  smw:hasPM2_5Days smw:229867;
+  smw:hasOzoneDays smw:5 .
+
+smw:229867 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 229867 .
+
+smw:5 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 5 .
+
+smw:Georgia a smw:State;
+  smw:hasPM2_5Days smw:7641;
+  smw:hasOzoneDays smw:34 .
+
+smw:7641 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 7641 .
+
+smw:34 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 34 .
+
+smw:Hawaii a smw:State;
+  smw:hasPM2_5Days smw:11518;
+  smw:hasOzoneDays smw:0 .
+
+smw:11518 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 11518 .
+
+smw:Idaho a smw:State;
+  smw:hasPM2_5Days smw:401039;
+  smw:hasOzoneDays smw:0 .
+
+smw:401039 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 401039 .
+
+smw:Illinois a smw:State;
+  smw:hasPM2_5Days smw:98054;
+  smw:hasOzoneDays smw:3 .
+
+smw:98054 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 98054 .
+
+smw:3 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 3 .
+
+smw:Indiana a smw:State;
+  smw:hasPM2_5Days smw:721100;
+  smw:hasOzoneDays smw:30 .
+
+smw:721100 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 721100 .
+
+smw:30 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 30 .
+
+smw:Iowa a smw:State;
+  smw:hasPM2_5Days smw:26906;
+  smw:hasOzoneDays smw:10 .
+
+smw:26906 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 26906 .
+
+smw:10 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 10 .
+
+smw:Kansas a smw:State;
+  smw:hasPM2_5Days smw:13733;
+  smw:hasOzoneDays smw:8 .
+
+smw:13733 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 13733 .
+
+smw:Kentucky a smw:State;
+  smw:hasPM2_5Days smw:115176;
+  smw:hasOzoneDays smw:13 .
+
+smw:115176 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 115176 .
+
+smw:13 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 13 .
+
+smw:Louisiana a smw:State;
+  smw:hasPM2_5Days smw:633680;
+  smw:hasOzoneDays smw:19 .
+
+smw:633680 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 633680 .
+
+smw:19 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 19 .
+
+smw:Maine a smw:State;
+  smw:hasPM2_5Days smw:315189;
+  smw:hasOzoneDays smw:7 .
+
+smw:315189 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 315189 .
+
+smw:7 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 7 .
+
+smw:Maryland a smw:State;
+  smw:hasPM2_5Days smw:74985;
+  smw:hasOzoneDays smw:33 .
+
+smw:74985 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 74985 .
+
+smw:Massachusetts a smw:State;
+  smw:hasPM2_5Days smw:133928;
+  smw:hasOzoneDays smw:15 .
+
+smw:133928 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 133928 .
+
+smw:15 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 15 .
+
+smw:Michigan a smw:State;
+  smw:hasPM2_5Days smw:11517;
+  smw:hasOzoneDays smw:9 .
+
+smw:11517 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 11517 .
+
+smw:9 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 9 .
+
+smw:Minnesota a smw:State;
+  smw:hasPM2_5Days smw:43066;
+  smw:hasOzoneDays smw:4 .
+
+smw:43066 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 43066 .
+
+smw:4 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 4 .
+
+smw:Mississippi a smw:State;
+  smw:hasPM2_5Days smw:41535;
+  smw:hasOzoneDays smw:33 .
+
+smw:41535 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 41535 .
+
+smw:Missouri a smw:State;
+  smw:hasPM2_5Days smw:163165;
+  smw:hasOzoneDays smw:32 .
+
+smw:163165 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 163165 .
+
+smw:32 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 32 .
+
+smw:Montana a smw:State;
+  smw:hasPM2_5Days smw:36683;
+  smw:hasOzoneDays smw:0 .
+
+smw:36683 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 36683 .
+
+smw:Nebraska a smw:State;
+  smw:hasPM2_5Days smw:19284;
+  smw:hasOzoneDays smw:4 .
+
+smw:19284 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 19284 .
+
+smw:Nevada a smw:State;
+  smw:hasPM2_5Days smw:13836;
+  smw:hasOzoneDays smw:2 .
+
+smw:13836 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 13836 .
+
+smw:2 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 2 .
+
+smw:New%20Hampshire a smw:State;
+  smw:hasPM2_5Days smw:47806;
+  smw:hasOzoneDays smw:17 .
+
+smw:47806 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 47806 .
+
+smw:17 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 17 .
+
+smw:New%20Jersey a smw:State;
+  smw:hasPM2_5Days smw:1800638;
+  smw:hasOzoneDays smw:13 .
+
+smw:1800638 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 1800638 .
+
+smw:New%20Mexico a smw:State;
+  smw:hasPM2_5Days smw:5272;
+  smw:hasOzoneDays smw:0 .
+
+smw:5272 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 5272 .
+
+smw:New%20York a smw:State;
+  smw:hasPM2_5Days smw:180308;
+  smw:hasOzoneDays smw:17 .
+
+smw:180308 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 180308 .
+
+smw:North%20Carolina a smw:State;
+  smw:hasPM2_5Days smw:270478;
+  smw:hasOzoneDays smw:12 .
+
+smw:270478 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 270478 .
+
+smw:12 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 12 .
+
+smw:North%20Dakota a smw:State;
+  smw:hasPM2_5Days smw:4073;
+  smw:hasOzoneDays smw:0 .
+
+smw:4073 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 4073 .
+
+smw:Ohio a smw:State;
+  smw:hasPM2_5Days smw:262062;
+  smw:hasOzoneDays smw:21 .
+
+smw:262062 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 262062 .
+
+smw:21 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 21 .
+
+smw:Oklahoma a smw:State;
+  smw:hasPM2_5Days smw:67715;
+  smw:hasOzoneDays smw:14 .
+
+smw:67715 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 67715 .
+
+smw:14 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 14 .
+
+smw:Oregon a smw:State;
+  smw:hasPM2_5Days smw:415860;
+  smw:hasOzoneDays smw:0 .
+
+smw:415860 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 415860 .
+
+smw:Pennsylvania a smw:State;
+  smw:hasPM2_5Days smw:1472112;
+  smw:hasOzoneDays smw:23 .
+
+smw:1472112 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 1472112 .
+
+smw:23 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 23 .
+
+smw:Rhode%20Island a smw:State;
+  smw:hasPM2_5Days smw:165396;
+  smw:hasOzoneDays smw:12 .
+
+smw:165396 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 165396 .
+
+smw:South%20Carolina a smw:State;
+  smw:hasPM2_5Days smw:2115848;
+  smw:hasOzoneDays smw:40 .
+
+smw:2115848 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 2115848 .
+
+smw:40 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 40 .
+
+smw:South%20Dakota a smw:State;
+  smw:hasPM2_5Days smw:31363;
+  smw:hasOzoneDays smw:0 .
+
+smw:31363 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 31363 .
+
+smw:Tennessee a smw:State;
+  smw:hasPM2_5Days smw:73418;
+  smw:hasOzoneDays smw:59 .
+
+smw:73418 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 73418 .
+
+smw:59 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 59 .
+
+smw:Texas a smw:State;
+  smw:hasPM2_5Days smw:252922;
+  smw:hasOzoneDays smw:13 .
+
+smw:252922 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 252922 .
+
+smw:Utah a smw:State;
+  smw:hasPM2_5Days smw:6574036;
+  smw:hasOzoneDays smw:0 .
+
+smw:6574036 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 6574036 .
+
+smw:Vermont a smw:State;
+  smw:hasPM2_5Days smw:109833;
+  smw:hasOzoneDays smw:11 .
+
+smw:109833 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 109833 .
+
+smw:11 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 11 .
+
+smw:Virginia a smw:State;
+  smw:hasPM2_5Days smw:261052;
+  smw:hasOzoneDays smw:30 .
+
+smw:261052 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 261052 .
+
+smw:Washington a smw:State;
+  smw:hasPM2_5Days smw:38680;
+  smw:hasOzoneDays smw:0 .
+
+smw:38680 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 38680 .
+
+smw:West%20Virginia a smw:State;
+  smw:hasPM2_5Days smw:965185;
+  smw:hasOzoneDays smw:31 .
+
+smw:965185 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 965185 .
+
+smw:Wisconsin a smw:State;
+  smw:hasPM2_5Days smw:16891;
+  smw:hasOzoneDays smw:5 .
+
+smw:16891 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 16891 .
+
+smw:Wyoming a smw:State;
+  smw:hasPM2_5Days smw:15952;
+  smw:hasOzoneDays smw:17672 .
+
+smw:15952 a smw:PersonDaysExceedingPM2_5Standard;
+  smw:hasPersonDaysExceedingPM2_5StandardValue 15952 .
+
+smw:17672 a smw:DaysExceedingOzoneStandard;
+  smw:hasDaysExceedingOzoneStandardValue 17672 .

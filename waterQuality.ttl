@@ -1,0 +1,504 @@
+@base <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smw: <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+smw:Alabama a smw:State;
+  smw:hasPollutandPounds smw:1562723611;
+  smw:hasToxicWeightPound smw:466910 .
+
+smw:1562723611 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 1562723611 .
+
+smw:466910 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 466910 .
+
+smw:Alaska a smw:State;
+  smw:hasPollutandPounds smw:118416131;
+  smw:hasToxicWeightPound smw:45938 .
+
+smw:118416131 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 118416131 .
+
+smw:45938 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 45938 .
+
+smw:Arizona a smw:State;
+  smw:hasPollutandPounds smw:1183148383;
+  smw:hasToxicWeightPound smw:204416 .
+
+smw:1183148383 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 1183148383 .
+
+smw:204416 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 204416 .
+
+smw:Arkansas a smw:State;
+  smw:hasPollutandPounds smw:479724012;
+  smw:hasToxicWeightPound smw:158387 .
+
+smw:479724012 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 479724012 .
+
+smw:158387 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 158387 .
+
+smw:California a smw:State;
+  smw:hasPollutandPounds smw:3629671400;
+  smw:hasToxicWeightPound smw:10796640 .
+
+smw:3629671400 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 3629671400 .
+
+smw:10796640 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 10796640 .
+
+smw:Colorado a smw:State;
+  smw:hasPollutandPounds smw:839518965;
+  smw:hasToxicWeightPound smw:147759 .
+
+smw:839518965 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 839518965 .
+
+smw:147759 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 147759 .
+
+smw:Connecticut a smw:State;
+  smw:hasPollutandPounds smw:40227906;
+  smw:hasToxicWeightPound smw:995021 .
+
+smw:40227906 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 40227906 .
+
+smw:995021 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 995021 .
+
+smw:Delaware a smw:State;
+  smw:hasPollutandPounds smw:11345009;
+  smw:hasToxicWeightPound smw:305442 .
+
+smw:11345009 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 11345009 .
+
+smw:305442 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 305442 .
+
+smw:Florida a smw:State;
+  smw:hasPollutandPounds smw:1465743298;
+  smw:hasToxicWeightPound smw:780859 .
+
+smw:1465743298 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 1465743298 .
+
+smw:780859 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 780859 .
+
+smw:Georgia a smw:State;
+  smw:hasPollutandPounds smw:190215647;
+  smw:hasToxicWeightPound smw:1218081 .
+
+smw:190215647 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 190215647 .
+
+smw:1218081 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 1218081 .
+
+smw:Hawaii a smw:State;
+  smw:hasPollutandPounds smw:45491544;
+  smw:hasToxicWeightPound smw:13075 .
+
+smw:45491544 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 45491544 .
+
+smw:13075 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 13075 .
+
+smw:Idaho a smw:State;
+  smw:hasPollutandPounds smw:103989198;
+  smw:hasToxicWeightPound smw:20475 .
+
+smw:103989198 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 103989198 .
+
+smw:20475 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 20475 .
+
+smw:Illinois a smw:State;
+  smw:hasPollutandPounds smw:691052571;
+  smw:hasToxicWeightPound smw:3665893 .
+
+smw:691052571 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 691052571 .
+
+smw:3665893 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 3665893 .
+
+smw:Indiana a smw:State;
+  smw:hasPollutandPounds smw:2000073040;
+  smw:hasToxicWeightPound smw:872323 .
+
+smw:2000073040 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 2000073040 .
+
+smw:872323 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 872323 .
+
+smw:Iowa a smw:State;
+  smw:hasPollutandPounds smw:115419454;
+  smw:hasToxicWeightPound smw:156916 .
+
+smw:115419454 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 115419454 .
+
+smw:156916 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 156916 .
+
+smw:Kansas a smw:State;
+  smw:hasPollutandPounds smw:211996235;
+  smw:hasToxicWeightPound smw:123331 .
+
+smw:211996235 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 211996235 .
+
+smw:123331 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 123331 .
+
+smw:Kentucky a smw:State;
+  smw:hasPollutandPounds smw:459096213;
+  smw:hasToxicWeightPound smw:3622368 .
+
+smw:459096213 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 459096213 .
+
+smw:3622368 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 3622368 .
+
+smw:Louisiana a smw:State;
+  smw:hasPollutandPounds smw:5429619299;
+  smw:hasToxicWeightPound smw:633427 .
+
+smw:5429619299 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 5429619299 .
+
+smw:633427 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 633427 .
+
+smw:Maine a smw:State;
+  smw:hasPollutandPounds smw:79843221;
+  smw:hasToxicWeightPound smw:12658 .
+
+smw:79843221 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 79843221 .
+
+smw:12658 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 12658 .
+
+smw:Maryland a smw:State;
+  smw:hasPollutandPounds smw:54350483;
+  smw:hasToxicWeightPound smw:218539 .
+
+smw:54350483 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 54350483 .
+
+smw:218539 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 218539 .
+
+smw:Massachusetts a smw:State;
+  smw:hasPollutandPounds smw:165589242;
+  smw:hasToxicWeightPound smw:628076 .
+
+smw:165589242 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 165589242 .
+
+smw:628076 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 628076 .
+
+smw:Michigan a smw:State;
+  smw:hasPollutandPounds smw:894469084;
+  smw:hasToxicWeightPound smw:254356 .
+
+smw:894469084 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 894469084 .
+
+smw:254356 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 254356 .
+
+smw:Minnesota a smw:State;
+  smw:hasPollutandPounds smw:2019760747;
+  smw:hasToxicWeightPound smw:165588 .
+
+smw:2019760747 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 2019760747 .
+
+smw:165588 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 165588 .
+
+smw:Mississippi a smw:State;
+  smw:hasPollutandPounds smw:56244613;
+  smw:hasToxicWeightPound smw:88271 .
+
+smw:56244613 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 56244613 .
+
+smw:88271 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 88271 .
+
+smw:Missouri a smw:State;
+  smw:hasPollutandPounds smw:1013937049;
+  smw:hasToxicWeightPound smw:378767 .
+
+smw:1013937049 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 1013937049 .
+
+smw:378767 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 378767 .
+
+smw:Montana a smw:State;
+  smw:hasPollutandPounds smw:75151550;
+  smw:hasToxicWeightPound smw:63479 .
+
+smw:75151550 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 75151550 .
+
+smw:63479 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 63479 .
+
+smw:Nebraska a smw:State;
+  smw:hasPollutandPounds smw:121412333;
+  smw:hasToxicWeightPound smw:51689 .
+
+smw:121412333 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 121412333 .
+
+smw:51689 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 51689 .
+
+smw:Nevada a smw:State;
+  smw:hasPollutandPounds smw:717006461;
+  smw:hasToxicWeightPound smw:21039 .
+
+smw:717006461 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 717006461 .
+
+smw:21039 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 21039 .
+
+smw:New%20Hampshire a smw:State;
+  smw:hasPollutandPounds smw:168169591;
+  smw:hasToxicWeightPound smw:515601 .
+
+smw:168169591 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 168169591 .
+
+smw:515601 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 515601 .
+
+smw:New%20Jersey a smw:State;
+  smw:hasPollutandPounds smw:348418721;
+  smw:hasToxicWeightPound smw:127263 .
+
+smw:348418721 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 348418721 .
+
+smw:127263 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 127263 .
+
+smw:New%20Mexico a smw:State;
+  smw:hasPollutandPounds smw:151712247;
+  smw:hasToxicWeightPound smw:55936988 .
+
+smw:151712247 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 151712247 .
+
+smw:55936988 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 55936988 .
+
+smw:New%20York a smw:State;
+  smw:hasPollutandPounds smw:961350606;
+  smw:hasToxicWeightPound smw:1071781 .
+
+smw:961350606 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 961350606 .
+
+smw:1071781 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 1071781 .
+
+smw:North%20Carolina a smw:State;
+  smw:hasPollutandPounds smw:226374307;
+  smw:hasToxicWeightPound smw:62011 .
+
+smw:226374307 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 226374307 .
+
+smw:62011 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 62011 .
+
+smw:North%20Dakota a smw:State;
+  smw:hasPollutandPounds smw:155856751;
+  smw:hasToxicWeightPound smw:70430 .
+
+smw:155856751 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 155856751 .
+
+smw:70430 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 70430 .
+
+smw:Ohio a smw:State;
+  smw:hasPollutandPounds smw:4058017341;
+  smw:hasToxicWeightPound smw:101256 .
+
+smw:4058017341 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 4058017341 .
+
+smw:101256 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 101256 .
+
+smw:Oklahoma a smw:State;
+  smw:hasPollutandPounds smw:2640327078;
+  smw:hasToxicWeightPound smw:222061 .
+
+smw:2640327078 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 2640327078 .
+
+smw:222061 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 222061 .
+
+smw:Oregon a smw:State;
+  smw:hasPollutandPounds smw:169790700;
+  smw:hasToxicWeightPound smw:41620 .
+
+smw:169790700 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 169790700 .
+
+smw:41620 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 41620 .
+
+smw:Pennsylvania a smw:State;
+  smw:hasPollutandPounds smw:7062012056;
+  smw:hasToxicWeightPound smw:19705877 .
+
+smw:7062012056 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 7062012056 .
+
+smw:19705877 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 19705877 .
+
+smw:Rhode%20Island a smw:State;
+  smw:hasPollutandPounds smw:16890723;
+  smw:hasToxicWeightPound smw:73713 .
+
+smw:16890723 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 16890723 .
+
+smw:73713 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 73713 .
+
+smw:South%20Carolina a smw:State;
+  smw:hasPollutandPounds smw:174386745;
+  smw:hasToxicWeightPound smw:105353 .
+
+smw:174386745 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 174386745 .
+
+smw:105353 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 105353 .
+
+smw:South%20Dakota a smw:State;
+  smw:hasPollutandPounds smw:25027330;
+  smw:hasToxicWeightPound smw:8468 .
+
+smw:25027330 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 25027330 .
+
+smw:8468 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 8468 .
+
+smw:Tennessee a smw:State;
+  smw:hasPollutandPounds smw:1318242509;
+  smw:hasToxicWeightPound smw:730667 .
+
+smw:1318242509 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 1318242509 .
+
+smw:730667 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 730667 .
+
+smw:Texas a smw:State;
+  smw:hasPollutandPounds smw:13545321418;
+  smw:hasToxicWeightPound smw:1214643 .
+
+smw:13545321418 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 13545321418 .
+
+smw:1214643 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 1214643 .
+
+smw:Utah a smw:State;
+  smw:hasPollutandPounds smw:510705939;
+  smw:hasToxicWeightPound smw:243217 .
+
+smw:510705939 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 510705939 .
+
+smw:243217 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 243217 .
+
+smw:Vermont a smw:State;
+  smw:hasPollutandPounds smw:12314137;
+  smw:hasToxicWeightPound smw:14520 .
+
+smw:12314137 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 12314137 .
+
+smw:14520 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 14520 .
+
+smw:Virginia a smw:State;
+  smw:hasPollutandPounds smw:406497149;
+  smw:hasToxicWeightPound smw:201029 .
+
+smw:406497149 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 406497149 .
+
+smw:201029 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 201029 .
+
+smw:Washington a smw:State;
+  smw:hasPollutandPounds smw:514244;
+  smw:hasToxicWeightPound smw:182 .
+
+smw:514244 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 514244 .
+
+smw:182 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 182 .
+
+smw:West%20Virginia a smw:State;
+  smw:hasPollutandPounds smw:526912081;
+  smw:hasToxicWeightPound smw:1056354 .
+
+smw:526912081 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 526912081 .
+
+smw:1056354 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 1056354 .
+
+smw:Wisconsin a smw:State;
+  smw:hasPollutandPounds smw:158587291;
+  smw:hasToxicWeightPound smw:22169 .
+
+smw:158587291 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 158587291 .
+
+smw:22169 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 22169 .
+
+smw:Wyoming a smw:State;
+  smw:hasPollutandPounds smw:50588586;
+  smw:hasToxicWeightPound smw:1447 .
+
+smw:50588586 a smw:TotalPollutantPounds;
+  smw:hasPollutantsValue 50588586 .
+
+smw:1447 a smw:TotalToxicWeightedPounds;
+  smw:hasToxicWeightValue 1447 .

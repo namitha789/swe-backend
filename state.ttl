@@ -1,0 +1,354 @@
+@base <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smw: <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+smw:Alabama a smw:State;
+  smw:hasStateArea 51609;
+  smw:hasPopulation 3615;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "East South Central";
+  smw:hasStateName "Alabama"^^smw:stateName .
+
+smw:Alaska a smw:State;
+  smw:hasStateArea 589757;
+  smw:hasPopulation 365;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Pacific";
+  smw:hasStateName "Alaska"^^smw:stateName .
+
+smw:Arizona a smw:State;
+  smw:hasStateArea 113909;
+  smw:hasPopulation 2212;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Arizona"^^smw:stateName .
+
+smw:Arkansas a smw:State;
+  smw:hasStateArea 53104;
+  smw:hasPopulation 2110;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "West South Central";
+  smw:hasStateName "Arkansas"^^smw:stateName .
+
+smw:California a smw:State;
+  smw:hasStateArea 158693;
+  smw:hasPopulation 21198;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Pacific";
+  smw:hasStateName "California"^^smw:stateName .
+
+smw:Colorado a smw:State;
+  smw:hasStateArea 104247;
+  smw:hasPopulation 2541;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Colorado"^^smw:stateName .
+
+smw:Connecticut a smw:State;
+  smw:hasStateArea 5009;
+  smw:hasPopulation 3100;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "Connecticut"^^smw:stateName .
+
+smw:Delaware a smw:State;
+  smw:hasStateArea 2057;
+  smw:hasPopulation 579;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "Delaware"^^smw:stateName .
+
+smw:Florida a smw:State;
+  smw:hasStateArea 58560;
+  smw:hasPopulation 8277;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "Florida"^^smw:stateName .
+
+smw:Georgia a smw:State;
+  smw:hasStateArea 58876;
+  smw:hasPopulation 4931;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "Georgia"^^smw:stateName .
+
+smw:Hawaii a smw:State;
+  smw:hasStateArea 6450;
+  smw:hasPopulation 868;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Pacific";
+  smw:hasStateName "Hawaii"^^smw:stateName .
+
+smw:Idaho a smw:State;
+  smw:hasStateArea 83557;
+  smw:hasPopulation 813;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Idaho"^^smw:stateName .
+
+smw:Illinois a smw:State;
+  smw:hasStateArea 56400;
+  smw:hasPopulation 11197;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "East North Central";
+  smw:hasStateName "Illinois"^^smw:stateName .
+
+smw:Indiana a smw:State;
+  smw:hasStateArea 36291;
+  smw:hasPopulation 5313;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "East North Central";
+  smw:hasStateName "Indiana"^^smw:stateName .
+
+smw:Iowa a smw:State;
+  smw:hasStateArea 56290;
+  smw:hasPopulation 2861;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "Iowa"^^smw:stateName .
+
+smw:Kansas a smw:State;
+  smw:hasStateArea 82264;
+  smw:hasPopulation 2280;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "Kansas"^^smw:stateName .
+
+smw:Kentucky a smw:State;
+  smw:hasStateArea 40395;
+  smw:hasPopulation 3387;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "East South Central";
+  smw:hasStateName "Kentucky"^^smw:stateName .
+
+smw:Louisiana a smw:State;
+  smw:hasStateArea 48523;
+  smw:hasPopulation 3806;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "West South Central";
+  smw:hasStateName "Louisiana"^^smw:stateName .
+
+smw:Maine a smw:State;
+  smw:hasStateArea 33215;
+  smw:hasPopulation 1058;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "Maine"^^smw:stateName .
+
+smw:Maryland a smw:State;
+  smw:hasStateArea 10577;
+  smw:hasPopulation 4122;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "Maryland"^^smw:stateName .
+
+smw:Massachusetts a smw:State;
+  smw:hasStateArea 8257;
+  smw:hasPopulation 5814;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "Massachusetts"^^smw:stateName .
+
+smw:Michigan a smw:State;
+  smw:hasStateArea 58216;
+  smw:hasPopulation 9111;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "East North Central";
+  smw:hasStateName "Michigan"^^smw:stateName .
+
+smw:Minnesota a smw:State;
+  smw:hasStateArea 84068;
+  smw:hasPopulation 3921;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "Minnesota"^^smw:stateName .
+
+smw:Mississippi a smw:State;
+  smw:hasStateArea 47716;
+  smw:hasPopulation 2341;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "East South Central";
+  smw:hasStateName "Mississippi"^^smw:stateName .
+
+smw:Missouri a smw:State;
+  smw:hasStateArea 69686;
+  smw:hasPopulation 4767;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "Missouri"^^smw:stateName .
+
+smw:Montana a smw:State;
+  smw:hasStateArea 147138;
+  smw:hasPopulation 746;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Montana"^^smw:stateName .
+
+smw:Nebraska a smw:State;
+  smw:hasStateArea 77227;
+  smw:hasPopulation 1544;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "Nebraska"^^smw:stateName .
+
+smw:Nevada a smw:State;
+  smw:hasStateArea 110540;
+  smw:hasPopulation 590;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Nevada"^^smw:stateName .
+
+smw:New%20Hampshire a smw:State;
+  smw:hasStateArea 9304;
+  smw:hasPopulation 812;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "New Hampshire"^^smw:stateName .
+
+smw:New%20Jersey a smw:State;
+  smw:hasStateArea 7836;
+  smw:hasPopulation 7333;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "Middle Atlantic";
+  smw:hasStateName "New Jersey"^^smw:stateName .
+
+smw:New%20Mexico a smw:State;
+  smw:hasStateArea 121666;
+  smw:hasPopulation 1144;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "New Mexico"^^smw:stateName .
+
+smw:New%20York a smw:State;
+  smw:hasStateArea 49576;
+  smw:hasPopulation 18076;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "Middle Atlantic";
+  smw:hasStateName "New York"^^smw:stateName .
+
+smw:North%20Carolina a smw:State;
+  smw:hasStateArea 52586;
+  smw:hasPopulation 5441;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "North Carolina"^^smw:stateName .
+
+smw:North%20Dakota a smw:State;
+  smw:hasStateArea 70665;
+  smw:hasPopulation 637;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "North Dakota"^^smw:stateName .
+
+smw:Ohio a smw:State;
+  smw:hasStateArea 41222;
+  smw:hasPopulation 10735;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "East North Central";
+  smw:hasStateName "Ohio"^^smw:stateName .
+
+smw:Oklahoma a smw:State;
+  smw:hasStateArea 69919;
+  smw:hasPopulation 2715;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "West South Central";
+  smw:hasStateName "Oklahoma"^^smw:stateName .
+
+smw:Oregon a smw:State;
+  smw:hasStateArea 96981;
+  smw:hasPopulation 2284;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Pacific";
+  smw:hasStateName "Oregon"^^smw:stateName .
+
+smw:Pennsylvania a smw:State;
+  smw:hasStateArea 45333;
+  smw:hasPopulation 11860;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "Middle Atlantic";
+  smw:hasStateName "Pennsylvania"^^smw:stateName .
+
+smw:Rhode%20Island a smw:State;
+  smw:hasStateArea 1214;
+  smw:hasPopulation 931;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "Rhode Island"^^smw:stateName .
+
+smw:South%20Carolina a smw:State;
+  smw:hasStateArea 31055;
+  smw:hasPopulation 2816;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "South Carolina"^^smw:stateName .
+
+smw:South%20Dakota a smw:State;
+  smw:hasStateArea 77047;
+  smw:hasPopulation 681;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "West North Central";
+  smw:hasStateName "South Dakota"^^smw:stateName .
+
+smw:Tennessee a smw:State;
+  smw:hasStateArea 42244;
+  smw:hasPopulation 4173;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "East South Central";
+  smw:hasStateName "Tennessee"^^smw:stateName .
+
+smw:Texas a smw:State;
+  smw:hasStateArea 267339;
+  smw:hasPopulation 12237;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "West South Central";
+  smw:hasStateName "Texas"^^smw:stateName .
+
+smw:Utah a smw:State;
+  smw:hasStateArea 84916;
+  smw:hasPopulation 1203;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Utah"^^smw:stateName .
+
+smw:Vermont a smw:State;
+  smw:hasStateArea 9609;
+  smw:hasPopulation 472;
+  smw:hasStateRegion "Northeast";
+  smw:hasStateDivision "New England";
+  smw:hasStateName "Vermont"^^smw:stateName .
+
+smw:Virginia a smw:State;
+  smw:hasStateArea 40815;
+  smw:hasPopulation 4981;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "Virginia"^^smw:stateName .
+
+smw:Washington a smw:State;
+  smw:hasStateArea 68192;
+  smw:hasPopulation 3559;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Pacific";
+  smw:hasStateName "Washington"^^smw:stateName .
+
+smw:West%20Virginia a smw:State;
+  smw:hasStateArea 24181;
+  smw:hasPopulation 1799;
+  smw:hasStateRegion "South";
+  smw:hasStateDivision "South Atlantic";
+  smw:hasStateName "West Virginia"^^smw:stateName .
+
+smw:Wisconsin a smw:State;
+  smw:hasStateArea 56154;
+  smw:hasPopulation 4589;
+  smw:hasStateRegion "North Central";
+  smw:hasStateDivision "East North Central";
+  smw:hasStateName "Wisconsin"^^smw:stateName .
+
+smw:Wyoming a smw:State;
+  smw:hasStateArea 97914;
+  smw:hasPopulation 376;
+  smw:hasStateRegion "West";
+  smw:hasStateDivision "Mountain";
+  smw:hasStateName "Wyoming"^^smw:stateName .

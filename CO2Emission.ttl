@@ -1,0 +1,292 @@
+@base <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smw: <http://www.semanticweb.org/rathors/ontologies/2024/10/untitled-ontology-11#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+smw:Alabama a smw:State;
+  smw:hasCO2Emission <#-5.1> .
+
+<#-5.1> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -5.1 .
+
+smw:Alaska a smw:State;
+  smw:hasCO2Emission smw:42.7 .
+
+smw:42.7 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 42.7 .
+
+smw:Arizona a smw:State;
+  smw:hasCO2Emission <#-1.5> .
+
+<#-1.5> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -1.5 .
+
+smw:Arkansas a smw:State;
+  smw:hasCO2Emission <#-10.7> .
+
+<#-10.7> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -10.7 .
+
+smw:California a smw:State;
+  smw:hasCO2Emission <#-0.6> .
+
+<#-0.6> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -0.6 .
+
+smw:Colorado a smw:State;
+  smw:hasCO2Emission smw:4.1 .
+
+smw:4.1 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 4.1 .
+
+smw:Connecticut a smw:State;
+  smw:hasCO2Emission smw:0.6 .
+
+smw:0.6 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 0.6 .
+
+smw:Delaware a smw:State;
+  smw:hasCO2Emission <#-10> .
+
+<#-10> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -10.0 .
+
+smw:Florida a smw:State;
+  smw:hasCO2Emission <#-6.4> .
+
+<#-6.4> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -6.4 .
+
+smw:Georgia a smw:State;
+  smw:hasCO2Emission <#-0.5> .
+
+<#-0.5> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -0.5 .
+
+smw:Hawaii a smw:State;
+  smw:hasCO2Emission smw:8.2 .
+
+smw:8.2 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 8.2 .
+
+smw:Idaho a smw:State;
+  smw:hasCO2Emission <#-2> .
+
+<#-2> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -2.0 .
+
+smw:Illinois a smw:State;
+  smw:hasCO2Emission <#-3.4> .
+
+<#-3.4> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -3.4 .
+
+smw:Indiana a smw:State;
+  smw:hasCO2Emission <#-26.1> .
+
+<#-26.1> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -26.1 .
+
+smw:Iowa a smw:State;
+  smw:hasCO2Emission <#-1.8> .
+
+<#-1.8> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -1.8 .
+
+smw:Kansas a smw:State;
+  smw:hasCO2Emission smw:3 .
+
+smw:3 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 3.0 .
+
+smw:Kentucky a smw:State;
+  smw:hasCO2Emission <#-9.8> .
+
+<#-9.8> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -9.8 .
+
+smw:Louisiana a smw:State;
+  smw:hasCO2Emission smw:22.4 .
+
+smw:22.4 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 22.4 .
+
+smw:Maine a smw:State;
+  smw:hasCO2Emission <#-2.4> .
+
+<#-2.4> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -2.4 .
+
+smw:Maryland a smw:State;
+  smw:hasCO2Emission <#-5.7> .
+
+<#-5.7> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -5.7 .
+
+smw:Massachusetts a smw:State;
+  smw:hasCO2Emission smw:1.1 .
+
+smw:1.1 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 1.1 .
+
+smw:Michigan a smw:State;
+  smw:hasCO2Emission smw:7.6 .
+
+smw:7.6 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 7.6 .
+
+smw:Minnesota a smw:State;
+  smw:hasCO2Emission <#-1.2> .
+
+<#-1.2> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -1.2 .
+
+smw:Mississippi a smw:State;
+  smw:hasCO2Emission smw:22.8 .
+
+smw:22.8 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 22.8 .
+
+smw:Missouri a smw:State;
+  smw:hasCO2Emission <#-17.9> .
+
+<#-17.9> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -17.9 .
+
+smw:Montana a smw:State;
+  smw:hasCO2Emission smw:0.4 .
+
+smw:0.4 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 0.4 .
+
+smw:Nebraska a smw:State;
+  smw:hasCO2Emission <#-4.7> .
+
+<#-4.7> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -4.7 .
+
+smw:Nevada a smw:State;
+  smw:hasCO2Emission <#-2.8> .
+
+<#-2.8> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -2.8 .
+
+smw:New%20Hampshire a smw:State;
+  smw:hasCO2Emission <#-0.5> .
+
+smw:New%20Jersey a smw:State;
+  smw:hasCO2Emission smw:0.5 .
+
+smw:0.5 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 0.5 .
+
+smw:New%20Mexico a smw:State;
+  smw:hasCO2Emission <#-13.9> .
+
+<#-13.9> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -13.9 .
+
+smw:New%20York a smw:State;
+  smw:hasCO2Emission smw:3.5 .
+
+smw:3.5 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 3.5 .
+
+smw:North%20Carolina a smw:State;
+  smw:hasCO2Emission <#-2.5> .
+
+<#-2.5> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -2.5 .
+
+smw:North%20Dakota a smw:State;
+  smw:hasCO2Emission smw:15.4 .
+
+smw:15.4 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 15.4 .
+
+smw:Ohio a smw:State;
+  smw:hasCO2Emission <#-3.8> .
+
+<#-3.8> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -3.8 .
+
+smw:Oklahoma a smw:State;
+  smw:hasCO2Emission smw:6.5 .
+
+smw:6.5 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 6.5 .
+
+smw:Oregon a smw:State;
+  smw:hasCO2Emission <#-3.4> .
+
+smw:Pennsylvania a smw:State;
+  smw:hasCO2Emission smw:0.8 .
+
+smw:0.8 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 0.8 .
+
+smw:Rhode%20Island a smw:State;
+  smw:hasCO2Emission smw:0.3 .
+
+smw:0.3 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 0.3 .
+
+smw:South%20Carolina a smw:State;
+  smw:hasCO2Emission <#-8.1> .
+
+<#-8.1> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -8.1 .
+
+smw:South%20Dakota a smw:State;
+  smw:hasCO2Emission smw:10.7 .
+
+smw:10.7 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 10.7 .
+
+smw:Tennessee a smw:State;
+  smw:hasCO2Emission <#-9.7> .
+
+<#-9.7> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -9.7 .
+
+smw:Texas a smw:State;
+  smw:hasCO2Emission <#-8.8> .
+
+<#-8.8> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -8.8 .
+
+smw:Utah a smw:State;
+  smw:hasCO2Emission <#-2.4> .
+
+smw:Vermont a smw:State;
+  smw:hasCO2Emission <#-1.9> .
+
+<#-1.9> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -1.9 .
+
+smw:Virginia a smw:State;
+  smw:hasCO2Emission <#-1> .
+
+<#-1> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -1.0 .
+
+smw:Washington a smw:State;
+  smw:hasCO2Emission <#-0.6> .
+
+smw:West%20Virginia a smw:State;
+  smw:hasCO2Emission <#-35> .
+
+<#-35> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -35.0 .
+
+smw:Wisconsin a smw:State;
+  smw:hasCO2Emission <#-2.3> .
+
+<#-2.3> a smw:CO2Emission;
+  smw:hasCO2EmissionValue -2.3 .
+
+smw:Wyoming a smw:State;
+  smw:hasCO2Emission smw:11 .
+
+smw:11 a smw:CO2Emission;
+  smw:hasCO2EmissionValue 11.0 .
